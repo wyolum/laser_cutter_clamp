@@ -792,9 +792,9 @@
            cy="251.62614" />
       </defs>
       <sodipodi:namedview
-         inkscape:cx="510.68322"
+         inkscape:cx="592.452"
          inkscape:window-maximized="1"
-         inkscape:cy="518.11675"
+         inkscape:cy="457.16183"
          inkscape:pageopacity="0.0"
          inkscape:document-units="mm"
          inkscape:window-width="1920"
@@ -804,7 +804,7 @@
          pagecolor="#ffffff"
          inkscape:deskcolor="#d1d1d1"
          inkscape:showpageshadow="2"
-         inkscape:current-layer="g511"
+         inkscape:current-layer="g1685"
          showgrid="false"
          id="namedview1740"
          borderopacity="1.0"
@@ -1240,7 +1240,7 @@
         <g
            inkscape:label="Layer 1"
            id="layer1"
-           transform="matrix(0.05152898,0,0,0.05152898,81.048532,212.57093)">
+           transform="matrix(0.05152898,0,0,0.05152898,85.444614,211.22419)">
           <g
              id="g4061"
              transform="matrix(5.2327559,0,0,5.2327559,-776.68272,-473.55174)">
@@ -2603,30 +2603,32 @@
       </g>
       <text
          freecad:editable="FREECAD_DRAWING"
-         y="188.94731"
+         y="190.42111"
          id="text1306"
          xml:space="preserve"
-         x="82.902794"
-         style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583">     <tspan
-   sodipodi:role="line"
-   y="188.94731"
-   id="tspan1304"
-   xml:space="preserve"
-   x="82.902794"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">change VarSet &quot;pegs&quot;</tspan>   </text>
+         x="108.56157"
+         style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"><tspan
+           sodipodi:role="line"
+           y="190.42111"
+           id="tspan1304"
+           xml:space="preserve"
+           x="108.56157"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.264583">change VarSet &quot;pegs&quot;</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan4"> </tspan></text>
       <text
          freecad:editable="Line3"
-         y="193.91273"
+         y="196.56778"
          id="text1462"
          xml:space="preserve"
-         x="82.902794"
-         style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583">     <tspan
+         x="108.51606"
+         style="font-size:19.7556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"><tspan
    sodipodi:role="line"
-   y="193.91273"
+   y="196.56778"
    id="tspan1460"
    xml:space="preserve"
-   x="82.902794"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">to set no of pegs</tspan>   </text>
+   x="108.51606"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">to set no of pegs</tspan> </text>
     </g>
     <g
        fill-rule="evenodd"
